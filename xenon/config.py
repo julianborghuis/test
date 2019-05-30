@@ -1,7 +1,7 @@
 from os import environ as env
 
 
-token = env.get('TOKEN')
+token = env.get('NDc3NDk2MTcyNTkyODg5ODY2.XO7JHQ.9cZZA2GK9QGmDSWVnJJit0SN2Gs')
 # shard_count and shard_ids can be overridden by Command Line Arguments
 shard_count = None  # ~ guilds // 1000
 shard_ids = None
